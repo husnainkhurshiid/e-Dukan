@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1010158003301",
+    "project_id": "edukan-2fbaa",
+    "storage_bucket": "edukan-2fbaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010158003301:android:778d8a16bc327150de528c",
+        "android_client_info": {
+          "package_name": "com.example.shoppingmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010158003301-ui8f4r3ci2b9j3nl1f3j42v32ge67hji.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shoppingmart",
+            "certificate_hash": "af7a6a52b91057563912e3ea764b192426da852a"
+          }
+        },
+        {
+          "client_id": "1010158003301-p7chi8o12p4c0hn0m1njfbsjr6ot98lp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTJ7YGd-9rZfW4jCrDzajnJunAAiKH1UM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010158003301-p7chi8o12p4c0hn0m1njfbsjr6ot98lp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
