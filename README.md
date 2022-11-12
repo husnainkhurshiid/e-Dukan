@@ -5,6 +5,3 @@ e-Dukan application is developed using Flutter and the backend is implemented on
 
 App .apk file is available to download at the given link. screenshot are also attached with this
 shorturl.at/cesvz
-![Categories Screen|320x271,50%](https://user-images.githubusercontent.com/87422670/201488288-e085536d-1082-461d-afd7-b7a30dd3b99f.png | width=100)
-![Home Screen](https://user-images.githubusercontent.com/87422670/201488295-8e2823d5-71a5-41e9-b3cb-738eb2db641d.png)
-https://user-images.githubusercontent.com/87422670/201488288-e085536d-1082-461d-afd7-b7a30dd3b99f.png
