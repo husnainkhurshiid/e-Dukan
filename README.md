@@ -1,16 +1,11 @@
-# shoppingmart
+##Ecommerce Application
 
-A new Flutter project.
+User side ecommerce application created using flutter
 
-## Getting Started
+e-Dukan - Ecommerce Mobile App A user side ecommerce app where user can purchase different
+items pertaining to different categories. e-Dukan application is developed using Flutter 
+and the backend is implemented on Firebase. Login and authentications are also implented in the app.
 
-This project is a starting point for a Flutter application.
+App .apk file is available to download at the given link. screenshot are also attached with this
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+shorturl.at/cesvz
