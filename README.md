@@ -12,5 +12,5 @@ shorturl.at/cesvz
 
 
 ![Splash Screen](https://lh3.googleusercontent.com/drive-viewer/AFDK6gOI2Kw10TvXRCA8U9GRFJJlxGUq25xoJqQIt9ELiBruOrA5rsLeDlFWG30ZhGjv72oOItTqb886i2EDLYzU261TF6_9zw=w1366-h615)
-![Login Screen](https://drive.google.com/file/d/1bs81R1rwRkiXlWoS5C47PPmbvci6vrZZ/view?usp=share_link)
-![Signup Screen](https://drive.google.com/file/d/1rUw5-WVrDpFU1AuzM-PfPegMT5F_ryHx/view?usp=share_link)
+![Login Screen](https://lh3.googleusercontent.com/drive-viewer/AFDK6gNDdqfBxz_SsbBz6BM7DI1llQUqxkBJyJDfS7zVCfG8fztS_3OSnetLn6PQDTdldrDd96CvBZAubX1qHoSJB6BkYsc8=w1366-h615)
+![Signup Screen](https://lh3.googleusercontent.com/drive-viewer/AFDK6gNLwXlPkQz0acbtjDnQnvN2qPsKsXINxmB-NMb3R-DHbUUZVqQU8BkJfebv-EBaCpnc26ChZdHK4YKIxToB462JGQ2mJw=w1366-h615)
