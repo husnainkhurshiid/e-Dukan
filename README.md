@@ -21,8 +21,8 @@ shorturl.at/cesvz
   <img src="https://lh3.googleusercontent.com/drive-viewer/AFDK6gM_kdM2i6WgecIRyYWIq2jQJs71GosWU2LgJo8U_HfGu9lar6Wci5rQfkfqoYPi56iNU6yIDg_JcWaSi2k-MZs4EB7jWg=w1366-h615" width="280" />
   <img src="https://lh3.googleusercontent.com/drive-viewer/AFDK6gORJCmGrAgWbVMio2al34BY1Y6nJ4v1VWozowBi_6IChGO4esyXEGAaHMNtp_xo4HfajNSBcz80po7vvDNoXoz7PLm1Tw=w1366-h615" width="280" />
   <img src="https://lh3.googleusercontent.com/drive-viewer/AFDK6gMPSslisenlpr1X3s4vV5EGikUd8Uc9O4jtYEBKqjhWR9BHfsD3y1Of4w19fJq1U8uRPOjyCs5EawoYhJ55v3oM6MJPlw=w1366-h615" width="280" />
-  
-  <img src="" width="280" />
+  <img src="https://lh3.googleusercontent.com/drive-viewer/AFDK6gPZ5cFUMGfdCaBB-dpIVfUL-cmPvGiGR5WviQ5p4vnu0cYgg039HQ7dmwchHhAj3BLzmLyswVAxhYKPLpMXwIZ6IBVgoA=w1366-h615" width="280" />
+  <img src="https://lh3.googleusercontent.com/drive-viewer/AFDK6gM2kUNi6-aiJ5KLZD4L_NIILBNPiMtMYtDaNFsnsPzgytMYWRehHk23-l2QffwTFRapRo9PEqrVV92qCBW_AIc8NrGxww=w1366-h615" width="280" />
 </p>
 
 
