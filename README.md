@@ -19,9 +19,9 @@ https://drive.google.com/file/d/1ro7P78B_p3mWJqc0kfG8APaVz_6Y9wRw/view
 
 
 <p float-"left">
-<h3><ol>Signup</ol></h3>
-<h3><ol>Login</ol></h3>
-<h3><ol>Enjoy</ol></h3>
+<h4>-> Signup</h4>
+<h4>-> Login</h4>
+<h4>-> Enjoy</h4>
 </p>
 
 <p float="left">
