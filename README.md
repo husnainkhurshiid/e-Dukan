@@ -1,4 +1,4 @@
-#Flutter Ecommerce Application
+#Flutter-Ecommerce-Application
 
 User side ecommerce application created using flutter
 
