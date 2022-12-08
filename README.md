@@ -11,14 +11,18 @@ and the backend is implemented on Firebase. Login and authentications are also i
 
 App .apk file is available to download at the given link. screenshot are also attached with this
 
-#Download from here
+<p float-"left">
+<h2>Download from here</h2>
+</p>
+
 https://drive.google.com/file/d/1ro7P78B_p3mWJqc0kfG8APaVz_6Y9wRw/view
 
--> SignUp
--> Login
--> Enjoy
 
-
+<p float-"left">
+<h3><ol>Signup</ol></h3>
+<h3><ol>Login</ol></h3>
+<h3><ol>Enjoy</ol></h3>
+</p>
 
 <p float="left">
   <img src="https://lh3.googleusercontent.com/drive-viewer/AFDK6gOI2Kw10TvXRCA8U9GRFJJlxGUq25xoJqQIt9ELiBruOrA5rsLeDlFWG30ZhGjv72oOItTqb886i2EDLYzU261TF6_9zw=w1366-h615" width="280" />
