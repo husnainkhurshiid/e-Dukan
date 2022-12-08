@@ -12,7 +12,7 @@ and the backend is implemented on Firebase. Login and authentications are also i
 App .apk file is available to download at the given link. screenshot are also attached with this
 
 <p float-"left">
-<h2>Download from here</h2>
+<h2>Download APK From Here</h2>
 </p>
 
 https://drive.google.com/file/d/1ro7P78B_p3mWJqc0kfG8APaVz_6Y9wRw/view
